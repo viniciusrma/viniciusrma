@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello everyone 👋
 
-<!--
-**viniciusrma/viniciusrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📣 My name is Vinícius (pronounce veeneeceeous),i'm from Recife, the coolest city in the Northeast os Brazil
+- 🔭 I’m working hard to become a web developer
+- 🌱 I’m currently learning Promises in JavaScript
+- 👯 I’m collaborating with a friend creating his labour website
+- 📚 I study at @codecademy and recommend them for anyone
+- 💬 Asking for jobs in Front-end development, jr. level
+- 📫 How to reach me: linkedin.com/in/viniciusrma
+- 😄 I speak English and Portuguese
+- ⚡ Curious fact: I am also a lawyer, graduated in 2018 and willing to change my professional area
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
