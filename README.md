@@ -2,8 +2,7 @@
 
 - 📣 My name is Vinícius (pronounce veeneeceeous), i'm from Recife, the coolest city in the Northeast of Brazil
 - 💪 Working hard to become a web developer
-- 🌱 I’m currently learning Async Await in JavaScript
-- 👯 I’m collaborating with a friend creating his labour website
+- 🌱 I’m currently learning Requests in JavaScript
 - 📚 I study at @codecademy and recommend them for anyone
 - 💬 Asking for jobs in Front-end development, jr level
 - 😄 I speak English and Portuguese
