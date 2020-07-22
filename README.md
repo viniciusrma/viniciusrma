@@ -3,7 +3,6 @@
 ### Hello everyone 👋
 
 - 📣 My name is Vinícius (pronounce veeneeceeous), i'm from Recife, the coolest city in the Northeast of Brazil
-- 💪 Working hard to become a web developer
 - 📚 I study at @codecademy and recommend them for anyone
 - 💬 Asking for jobs in Front-end development, jr level
 - 😄 I speak English and Portuguese
