@@ -4,7 +4,7 @@
 
 - 📣 My name is Vinícius (pronounce veeneeceeous), i'm from Recife, the coolest city in the Northeast of Brazil
 - 📚 I study at @codecademy and recommend them for anyone
-- 🗜 Currently working as Full Stack Engineer Jr.
+- 🗜 Currently working as Full Stack Engineer.
 - 😄 I speak English and Portuguese
 
 ----
