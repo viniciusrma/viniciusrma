@@ -2,11 +2,15 @@
 
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
-# Vinícius Morais 👨‍💻
+### Welcome to my github repo!
+<p>
+  I'm Vinícius, Fullstack developer from 
+  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <b>Brazil</b>
+</p>
 
 ### Hello everyone 👋
 
-- 📣 My name is Vinícius (pronounce veeneeceeous), i'm from Recife, the coolest city in the Northeast of Brazil
 - 📚 I study at @codecademy and recommend them for anyone
 - 🗜 Currently working at 7itec sistemas
 - 😄 I speak English and Portuguese
