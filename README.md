@@ -27,7 +27,7 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-<br/><br/>
+<br/>
 
 ## My Development Stack
 
