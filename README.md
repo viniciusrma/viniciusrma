@@ -9,8 +9,6 @@
   <b>Brazil</b>
 </p>
 
-<br/>
-
 ### Talking about Personal Stuffs
 
 - 📚 I study at @codecademy and recommend them for anyone
@@ -26,8 +24,6 @@
 <a href="mailto:viniciusrma.dev@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
-
-<br/>
 
 ## My Development Stack
 
@@ -70,13 +66,9 @@
 
 ## Coding Activity
 
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusrma&show_icons=true&theme=dracula" alt="viniciusrma's github stats" />
 </p>
-
-<br/>
 
 <p align="right">
   <a href="https://badges.pufler.dev">
