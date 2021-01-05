@@ -4,16 +4,30 @@
 
 ### Welcome to my github repo!
 <p>
-  I'm Vinícius, Fullstack developer from 
+  I'm Vinícius, Fullstack Developer from 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>
 </p>
 
-### Hello everyone 👋
+<br/>
+
+### Talking about Personal Stuffs
 
 - 📚 I study at @codecademy and recommend them for anyone
-- 🗜 Currently working at 7itec sistemas
-- 😄 I speak English and Portuguese
+- 🗜 Currently working at 7itec sistemas, in something very cool
+- 💬 Ask me about anything, I am happy to help;
+
+### Where to find me:
+
+<a href="https://www.linkedin.com/in/viniciusrma/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:viniciusrma.dev@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+
+<br/><br/>
 
 ----
 
