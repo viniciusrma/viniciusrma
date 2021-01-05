@@ -68,6 +68,18 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13886483/vin%c3%adcius-morais)](https://stackoverflow.com/users/13886483/vin%c3%adcius-morais)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusrma.dev@gmail.com)](mailto:viniciusrma.dev@gmail.com)
 
+## Coding Activity
 
+<br/>
 
+<p align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusrma&show_icons=true&theme=dracula" alt="viniciusrma's github stats" />
+</p>
 
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/viniciusrma/viniciusrma" alt="Visitors badge" />
+  </a>
+</p>
