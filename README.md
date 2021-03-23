@@ -1,7 +1,5 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045850/833/handshake.gif?1471045850" alt="shaking hands" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" />
-
 ### Welcome to my github repo!
 <p>
   I'm Vinícius, Fullstack Developer from 
