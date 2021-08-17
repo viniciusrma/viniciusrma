@@ -7,12 +7,6 @@
   <b>Brazil</b>
 </p>
 
-### Personal Stuffs
-
-- 📚 I study at @codecademy and recommend them for anyone
-- 🗜 Currently working at 7itec sistemas, in something very cool
-- 💬 Ask me about anything, I am happy to help;
-
 ## Coding Activity
 
 <p align="left">
