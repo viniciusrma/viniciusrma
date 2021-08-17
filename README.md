@@ -7,7 +7,7 @@
   <b>Brazil</b>
 </p>
 
-### Talking about Personal Stuffs
+### Personal Stuffs
 
 - 📚 I study at @codecademy and recommend them for anyone
 - 🗜 Currently working at 7itec sistemas, in something very cool
@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusrma&show_icons=true&theme=dracula" alt="viniciusrma's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrma&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
 <p align="right">
