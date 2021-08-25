@@ -27,7 +27,7 @@
 </a>
 
 <a href="mailto:viniciusrma.dev@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://image.flaticon.com/icons/png/512/888/888853.png" /></code>
 </a>
 
 ## My Development Stack
