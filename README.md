@@ -23,7 +23,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/viniciusrma/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=4&page=1&position=4&related_id=145807&origin=search" /></code>
+  <code><img alt="My linkedin" width="28" src="https://image.flaticon.com/icons/png/512/145/145807.png" /></code>
 </a>
 
 <a href="mailto:viniciusrma.dev@gmail.com">
