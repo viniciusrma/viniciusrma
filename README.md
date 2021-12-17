@@ -1,6 +1,4 @@
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045850/833/handshake.gif?1471045850" alt="shaking hands" />
-
-### Welcome to my github repo!
+# Welcome to my github repo!
 <p>
   I'm Vinícius, Fullstack Developer from 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
