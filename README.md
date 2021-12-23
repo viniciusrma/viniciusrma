@@ -1,8 +1,6 @@
 # Welcome to my github repo!
 <p>
-  I'm Vinícius, Fullstack Developer from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>
+  I'm Vinícius, Fullstack Developer from <b>Brazil</b>
 </p>
 
 ## Coding Activity
