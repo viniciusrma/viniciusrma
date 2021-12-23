@@ -1,6 +1,6 @@
-# Welcome to my github repo!
+# Welcome visitor!
 <p>
-  I'm Vinícius, Fullstack Developer from <b>Brazil</b>
+  I am Vinícius, Fullstack Developer from <b>Brazil</b>
 </p>
 
 ## Coding Activity
