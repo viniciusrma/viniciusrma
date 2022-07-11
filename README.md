@@ -15,16 +15,6 @@
   </a>
 </p>
 
-### Where to find me:
-
-<a href="https://www.linkedin.com/in/viniciusrma/" target="_blank">
-  <code><img alt="My linkedin" width="28" src="https://image.flaticon.com/icons/png/512/145/145807.png" /></code>
-</a>
-
-<a href="mailto:viniciusrma.dev@gmail.com" target="_blank">
-  <code><img alt="My e-mail" width="32" src="https://image.flaticon.com/icons/png/512/888/888853.png" /></code>
-</a>
-
 ## My Development Stack
 
 **Application and Data**
