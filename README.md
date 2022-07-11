@@ -48,6 +48,8 @@
 
 ----
 
+## Where to find me
+
 [![Github Badge](https://img.shields.io/badge/-viniciusrma-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusrma)](https://github.com/viniciusrma)
 [![Linkedin Badge](https://img.shields.io/badge/-viniciusrma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusrma/)](https://www.linkedin.com/in/viniciusrma/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13886483/vin%c3%adcius-morais)](https://stackoverflow.com/users/13886483/vin%c3%adcius-morais)
