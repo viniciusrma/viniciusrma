@@ -9,12 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrma&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/viniciusrma/viniciusrma" alt="Visitors badge" />
-  </a>
-</p>
-
 ## My Development Stack
 
 **Application and Data**
