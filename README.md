@@ -3,12 +3,6 @@
   I am Vinícius, Fullstack Developer from <b>Brazil</b>
 </p>
 
-## Coding Activity
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrma&layout=compact&langs_count=16&theme=dracula"/>
-</p>
-
 ## My Development Stack
 
 **Application and Data**
